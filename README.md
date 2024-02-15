@@ -1,4 +1,4 @@
-# LEARNFLOW-Fitness-Tracker-App
+# Fitness-Tracker-App
 ![image](https://github.com/javid4962/LEARNFLOW-Fitness-Tracker-App/assets/76842254/7be2ae67-9a65-4162-95fa-bb9da0a9faa5)
 ![image](https://github.com/javid4962/LEARNFLOW-Fitness-Tracker-App/assets/76842254/221d1908-e1cb-4dc5-bf64-f0ffdb2a219d)
 ![image](https://github.com/javid4962/LEARNFLOW-Fitness-Tracker-App/assets/76842254/1c33306b-b3e6-4573-86cf-d8869e5bcb9c)
